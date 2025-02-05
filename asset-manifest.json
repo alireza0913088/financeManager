@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alireza0913088/financeManager/static/css/main.ef159b74.css",
-    "main.js": "/alireza0913088/financeManager/static/js/main.9428c325.js",
+    "main.css": "/alireza0913088/financeManager/static/css/main.e7006ad5.css",
+    "main.js": "/alireza0913088/financeManager/static/js/main.5b0d7eb8.js",
     "static/media/DanaFaNum-Regular.woff": "/alireza0913088/financeManager/static/media/DanaFaNum-Regular.c0b757499395cd1d4354.woff",
     "index.html": "/alireza0913088/financeManager/index.html",
-    "main.ef159b74.css.map": "/alireza0913088/financeManager/static/css/main.ef159b74.css.map",
-    "main.9428c325.js.map": "/alireza0913088/financeManager/static/js/main.9428c325.js.map"
+    "main.e7006ad5.css.map": "/alireza0913088/financeManager/static/css/main.e7006ad5.css.map",
+    "main.5b0d7eb8.js.map": "/alireza0913088/financeManager/static/js/main.5b0d7eb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef159b74.css",
-    "static/js/main.9428c325.js"
+    "static/css/main.e7006ad5.css",
+    "static/js/main.5b0d7eb8.js"
   ]
 }
